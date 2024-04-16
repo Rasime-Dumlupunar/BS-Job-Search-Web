@@ -1,10 +1,12 @@
-# bootstrap-proje-i--arama
 # BS-Jobs-Search-Web
-# BS-Jobs-Search-Web
-# BS-Jobs-Search-Web
-# BS-Job-Search-Web
-# BS-Job-Search-Web
-# Job-search-web
-# Job-search-web
-# BS-Job-Search-Web
-# BS-Job-Search-Web
+
+Navigating through the website is incredibly straightforward. Upon landing on the homepage, you'll find a curated collection of the latest job openings alongside the recognizable logos of top-tier companies. 
+
+Key features include:
+
+•	Comprehensive job listings
+
+•	Highlighted presence of leading companies
+
+•	Intuitive and user-friendly interface
+
