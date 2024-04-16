@@ -10,5 +10,3 @@ Key features include:
 
 •	Intuitive and user-friendly interface
 
-<h3>Preview</h3>
-![](jobs search.gif)
