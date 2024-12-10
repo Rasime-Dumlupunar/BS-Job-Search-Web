@@ -11,4 +11,5 @@ Key features include:
 •	Intuitive and user-friendly interface
 
 
+
 ![](https://github.com/Rasime-Dumlupunar/BS-Job-Search-Web/blob/main/jobs%20search.gif)
